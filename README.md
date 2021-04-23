@@ -6,7 +6,9 @@ Tasks will be saved on your local storage web browser
 
 # Technology Used and Features
 
-Jquery 
-Bootstrap
-HTML CSS 
+* Jquery 
+* Bootstrap
+* HTML CSS 
+
+# WebApp Screenshot
 ![Screenshot](Screenshot.png)
