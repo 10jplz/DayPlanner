@@ -12,3 +12,7 @@ Tasks will be saved on your local storage web browser
 
 # WebApp Screenshot
 ![Screenshot](Screenshot.png)
+
+# Deployed APP
+
+https://10jplz.github.io/DayPlanner/
